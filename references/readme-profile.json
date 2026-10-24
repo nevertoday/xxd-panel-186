@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 186｜Nine-cell Geometric Memory Grid: breaks a photo into nine memorable fragments — the whole subject, a structural detail, an action, an object, a material, an environment clue or a symbolic detail — and redraws them as a 3×3 grid of equal cells, each built from flat colour blocks and rectangles, circles, arcs and zigzags with no realistic light or texture, all pointing back to the same theme. Soft, light, low-contrast flat colours such as butter yellow, pale bean green, apricot, misty violet and soft blue sit on warm white paper; the grid is set centrally or slightly high in wide whitespace, with a few words only outside the cells. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-186 or asks for a nine-grid, modular flat geometric or soft-colour memory grid illustration from a photo.",
+  "short_description": "柔色九宫格几何记忆：把照片拆成九个片段，用扁平几何色块排成 3×3 九宫格",
+  "zh-CN": {
+    "name": "柔色九宫格几何记忆",
+    "tagline": "把照片拆成九个记忆片段，用柔和的扁平几何色块排成一个九宫格。",
+    "look": "照片被拆成九个值得记住的片段，排成一个 3×3 九宫格：主体整体、局部结构、动作、器物、材质、环境线索或某个象征细节各占一格，但都指向同一个主题。每格用扁平色块和矩形、圆形、弧形、折线拼出形体，没有真实光影和纹理。颜色是暖白纸底上的奶油黄、浅豆绿、粉杏、雾紫、柔蓝等柔和平涂色。九宫格缩在版面中央或略偏上，四周大片留白，几个字词只放在格子外面。",
+    "traits": ["3×3 九宫格", "扁平几何色块", "柔和低饱和色", "暖白纸面", "格外留白"],
+    "good": [
+      "内容丰富、能拆出多个细节的照片：一桌早餐、一间小店、一段旅行场景",
+      "有几种明显元素的生活场景：花园、厨房、街角、海边",
+      "想做回忆拼图、旅行纪念或系列封面的照片"
+    ],
+    "poor": [
+      "只有一个简单物件、拆不出九个不同片段的照片，结果容易重复",
+      "需要写实或保留表情细节的人像",
+      "想要鲜艳纯色、强烈撞色或每格都配文字说明的需求"
+    ]
+  },
+  "en": {
+    "name": "Nine-cell Geometric Memory Grid",
+    "tagline": "Breaks a photo into nine remembered fragments, arranged as a grid of soft flat geometric colour blocks.",
+    "look": "Your photo is split into nine fragments worth remembering and laid out as a 3×3 grid: the whole subject, a structural detail, an action, an object, a material, a clue about the setting or a symbolic detail each take one cell, yet all point to the same theme. Each cell is built from flat colour blocks and rectangles, circles, arcs and zigzags, with no realistic light or texture. The colours are soft flat tones such as butter yellow, pale bean green, apricot, misty violet and soft blue on warm white paper. The grid is shrunk into the centre or slightly above it, with wide whitespace around it and a few words placed only outside the cells.",
+    "traits": ["3×3 grid", "Flat geometric blocks", "Soft muted colour", "Warm white paper", "Whitespace around the grid"],
+    "good": [
+      "Rich photos that can be split into many details: a breakfast spread, a small shop, a travel scene",
+      "Everyday scenes with several distinct elements: a garden, a kitchen, a street corner, a beach",
+      "Photos you want as a memory collage, a travel keepsake or a series cover"
+    ],
+    "poor": [
+      "Photos of one simple object that cannot yield nine different fragments, so the cells tend to repeat",
+      "Portraits that need realism or facial expression",
+      "Requests for bright pure colours, strong clashes or a caption in every cell"
+    ]
+  },
+  "ja": {
+    "name": "淡色の九分割幾何学記憶",
+    "tagline": "写真を九つの記憶のかけらに分け、柔らかな平塗りの幾何学色面で九分割グリッドに並べます。",
+    "look": "写真を記憶に残る九つのかけらに分け、3×3 のグリッドに並べます。主役の全体、部分の構造、動作、道具、素材、周囲の手がかり、象徴的な細部がそれぞれ一マスを占めますが、すべて同じテーマを指しています。各マスは平らな色面と長方形、円、弧、折れ線で形をつくり、写実的な光や質感はありません。色は温かみのある白い紙の上に、クリームイエロー、淡い豆緑、杏色、霧のような紫、柔らかな青などの穏やかな平塗りです。グリッドは画面の中央かやや上に小さくまとめ、周りに大きな余白をとり、言葉はマスの外にだけ数語置きます。",
+    "traits": ["3×3 グリッド", "平塗りの幾何学色面", "柔らかな低彩度", "温かな白い紙", "グリッド外の余白"],
+    "good": [
+      "内容が豊かで細部をいくつも取り出せる写真：朝食の食卓、小さな店、旅の場面",
+      "はっきりした要素がいくつかある日常の場面：庭、台所、街角、海辺",
+      "思い出のコラージュ、旅の記念、シリーズの表紙にしたい写真"
+    ],
+    "poor": [
+      "シンプルな物がひとつだけで九つの違うかけらを取り出せない写真は、マスが似通いやすくなります",
+      "写実性や表情の細部が必要な人物写真",
+      "鮮やかな純色、強い対比色、マスごとの説明文を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "부드러운 색의 아홉 칸 기하학 기억",
+    "tagline": "사진을 아홉 개의 기억 조각으로 나눠 부드러운 평면 기하 색면으로 3×3 격자에 배열합니다.",
+    "look": "사진을 기억할 만한 아홉 조각으로 나눠 3×3 격자로 배열합니다. 주인공 전체, 부분 구조, 동작, 물건, 재질, 주변 단서, 상징적인 디테일이 한 칸씩 차지하지만 모두 같은 주제를 가리킵니다. 각 칸은 평평한 색면과 사각형, 원, 호, 꺾은선으로 형태를 만들고 사실적인 빛이나 질감은 넣지 않습니다. 색은 따뜻한 흰 종이 위에 크림 노랑, 연한 콩초록, 살구색, 안개 보라, 부드러운 파랑 같은 차분한 평면색입니다. 격자는 화면 가운데나 조금 위쪽에 작게 놓고 둘레에 넓은 여백을 두며, 글자는 칸 바깥에만 몇 단어 둡니다.",
+    "traits": ["3×3 격자", "평면 기하 색면", "부드러운 저채도", "따뜻한 흰 종이", "격자 밖 여백"],
+    "good": [
+      "내용이 풍부해 여러 디테일로 나눌 수 있는 사진: 아침 식탁, 작은 가게, 여행 장면",
+      "뚜렷한 요소가 여러 개인 일상 장면: 정원, 부엌, 길모퉁이, 바닷가",
+      "추억 콜라주, 여행 기념, 시리즈 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "단순한 물건 하나뿐이라 서로 다른 아홉 조각을 뽑기 어려운 사진은 칸이 비슷해지기 쉽습니다",
+      "사실감이나 표정 디테일이 필요한 인물 사진",
+      "선명한 원색, 강한 대비색, 칸마다 설명 글을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شبكة ذكريات هندسية من تسع خلايا",
+    "tagline": "يقسّم الصورة إلى تسع شذرات من الذاكرة ويرتبها في شبكة من كتل لونية هندسية مسطحة وناعمة.",
+    "look": "تُقسَّم صورتك إلى تسع شذرات جديرة بالتذكر وتُرتب في شبكة 3×3: العنصر كاملاً، وتفصيل من بنيته، وحركة، وأداة، وخامة، ودليل على المكان، وتفصيل رمزي، لكل منها خلية، وكلها تشير إلى الموضوع نفسه. تُبنى كل خلية من كتل لونية مسطحة ومستطيلات ودوائر وأقواس وخطوط متكسرة، من دون ضوء أو ملمس واقعي. الألوان درجات مسطحة ناعمة مثل الأصفر الزبدي والأخضر الفولي الفاتح والمشمشي والبنفسجي الضبابي والأزرق الناعم فوق ورق أبيض دافئ. تُصغَّر الشبكة في الوسط أو أعلاه قليلاً، مع فراغ واسع حولها، ولا توضع الكلمات القليلة إلا خارج الخلايا.",
+    "traits": ["شبكة 3×3", "كتل هندسية مسطحة", "ألوان ناعمة هادئة", "ورق أبيض دافئ", "فراغ حول الشبكة"],
+    "good": [
+      "صور غنية يمكن تقسيمها إلى تفاصيل كثيرة: مائدة إفطار، متجر صغير، مشهد من رحلة",
+      "مشاهد يومية فيها عدة عناصر مميزة: حديقة، مطبخ، ناصية شارع، شاطئ",
+      "صور تريدها كولاج ذكريات أو تذكاراً لرحلة أو غلافاً لسلسلة"
+    ],
+    "poor": [
+      "صور شيء واحد بسيط لا يمكن أن تخرج منه تسع شذرات مختلفة، فتتشابه الخلايا",
+      "الصور الشخصية التي تحتاج إلى واقعية أو تعابير الوجه",
+      "طلب ألوان صافية زاهية أو تضاد قوي أو تعليق نصي في كل خلية"
+    ]
+  }
+}
